@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🎯 Language: <strong> HTML, CSS, JAVASCRIPT, PYTHON, C#, C. </strong>
+  🎯 Language: <strong> HTML, CSS, JAVASCRIPT, C#, C. </strong>
 </p>
 
 <p align="left">
