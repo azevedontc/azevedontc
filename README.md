@@ -6,10 +6,6 @@
 </p>
 
 <p align="left">
-  🎯 Language: <strong> HTML, CSS, JAVASCRIPT, C#, C. </strong>
-</p>
-
-<p align="left">
   💌 Contact: ⤵️
 </p>
 
