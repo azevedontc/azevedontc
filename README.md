@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  My name is <strong> Augusto Azevedo </strong>, passionate about technology and especially programming.<br>
+  📌 My name is <strong> Augusto Azevedo </strong>, passionate about technology and especially programming.<br>
   Today I am a student of computer science and I intend to continue with the course and other sources of knowledge.
 </p>
 
