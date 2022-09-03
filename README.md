@@ -7,7 +7,7 @@
 
 
 <p align="left">
-  🎯 I develop simple, self-taught codes for my own practices
+  🎯 I develop simple and self-taught codes for my own practices, always looking to improve. =)
 </p>
 
 <p align="left">
