@@ -5,6 +5,11 @@
   Today I am a student of computer science and I intend to continue with the course and other sources of knowledge.
 </p>
 
+
+<p align="left">
+  🎯 I develop simple, self-taught codes for my own practices
+</p>
+
 <p align="left">
   💌 Contact: ⤵️
 </p>
