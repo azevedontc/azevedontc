@@ -34,6 +34,6 @@
 </br>
 
 <div align="center">
- <img height="160px" src="https://github-readme-stats.vercel.app/api?username=NathanFirmo&theme=dracula&count_private=true"/>
- <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanFirmo&hide=html&layout=compact&theme=dracula"/>
+ <img height="160px" src="https://github-readme-stats.vercel.app/api?username=azevedontc&theme=dracula&count_private=true"/>
+ <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azevedontc&hide=html&layout=compact&theme=dracula"/>
 </div>
