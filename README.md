@@ -29,4 +29,11 @@
 
   <a href="https://www.instagram.com/azevedontc/" alt="Instagram">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>  
+</p>
+
+</br>
+
+<div align="center">
+ <img height="160px" src="https://github-readme-stats.vercel.app/api?username=NathanFirmo&theme=dracula&count_private=true"/>
+ <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanFirmo&hide=html&layout=compact&theme=dracula"/>
+</div>
