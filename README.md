@@ -10,7 +10,7 @@
   🎯 I develop simple and self-taught codes for my own practices, always looking to improve. =)
 </p>
 
-👨‍🎓 <a href="https://main.dpvnipep2hcjw.amplifyapp.com/"> Online hosted portfolio </a>.
+👨‍🎓 <a href="https://main.dpvnipep2hcjw.amplifyapp.com/"> Online hosted portfolio</a>.
 
 <p align="left">
   💌 Contact: ⤵️
