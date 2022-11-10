@@ -17,19 +17,11 @@
 </p>
 
 <p align="left">
-  <a href="https://account.proton.me/u/0/mail/general#pmme" alt="ProtonMail">
-  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
-
   <a href="https://www.linkedin.com/in/augustoazevedontc/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://user-images.githubusercontent.com/56490555/161457095-b41d6537-829a-4d3f-9d60-f03bc7f2b9f2.svg"/></a>
 
   <a href="https://twitter.com/azevedontc" alt="Twitter">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <img src="https://user-images.githubusercontent.com/56490555/192220206-4f90919b-b678-4530-9fef-4abcf8652da6.png"/></a>
 </p>
 
 </br>
-
-<div align="center">
- <img height="160px" src="https://github-readme-stats.vercel.app/api?username=azevedontc&theme=dracula&count_private=true"/>
- <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azevedontc&hide=html&layout=compact&theme=dracula"/>
-</div>
