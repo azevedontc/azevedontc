@@ -17,6 +17,9 @@
 </p>
 
 <p align="left">
+  <a href="https://main.dpvnipep2hcjw.amplifyapp.com/" alt="Portfolio">
+  <img align="left" width="35px" height="35px" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/null/external-developer-devops-soft-fill-soft-fill-juicy-fish-2.png"/></a>
+  
   <a href="https://www.linkedin.com/in/augustoazevedontc/" alt="Linkedin">
   <img align="left" width="35px" height="35px" src="https://img.icons8.com/fluency/48/null/linkedin.png"/></a>
 
