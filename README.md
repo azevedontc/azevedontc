@@ -18,10 +18,13 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/augustoazevedontc/" alt="Linkedin">
-  <img align="left" width="22px" height="22px" src="https://icons8.com.br/icon/vWcULbkKy3DN/linkedin-2"/></a>
+  <img align="left" width="22px" height="22px" src="https://img.icons8.com/fluency/48/null/linkedin.png"/></a>
 
   <a href="https://twitter.com/azevedontc" alt="Twitter">
-  <img align="left" width="22px" height="22px" src="https://icons8.com.br/icon/5MQ0gPAYYx7a/twitter"/></a>
+  <img align="left" width="22px" height="22px" src="https://img.icons8.com/fluency/48/null/twitter.png"/></a>
+  
+  <a href="https://www.figma.com/@azevedontc" alt="Figma">
+  <img align="left" width="22px" height="22px" src="https://img.icons8.com/fluency/48/null/figma.png"/></a>
 </p>
 
 </br>
