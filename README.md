@@ -18,16 +18,16 @@
 
 <p align="left">
   <a href="https://t.me/azevedontc" alt="Telegram">
-  <img align="left" width="35px" height="35px" src="https://img.icons8.com/fluency/48/null/telegram-app.png"/></a>
+  <img align="left" width="35px" height="37px" src="https://img.icons8.com/fluency/48/null/telegram-app.png"/></a>
   
   <a href="https://www.linkedin.com/in/augustoazevedontc/" alt="Linkedin">
-  <img align="left" width="35px" height="35px" src="https://img.icons8.com/fluency/48/null/linkedin.png"/></a>
+  <img align="left" width="35px" height="37px" src="https://img.icons8.com/fluency/48/null/linkedin.png"/></a>
 
   <a href="https://twitter.com/azevedontc" alt="Twitter">
-  <img align="left" width="35px" height="35px" src="https://img.icons8.com/fluency/48/null/twitter.png"/></a>
+  <img align="left" width="35px" height="37px" src="https://img.icons8.com/fluency/48/null/twitter.png"/></a>
   
   <a href="https://www.figma.com/@azevedontc" alt="Figma">
-  <img align="left" width="35px" height="35px" src="https://img.icons8.com/fluency/48/null/figma.png"/></a>
+  <img align="left" width="35px" height="37px" src="https://img.icons8.com/fluency/48/null/figma.png"/></a>
 </p>
 
 </br>
