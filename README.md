@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="computer AzevedoNTC">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="450px" max-width="450px" width="450px" align="right" alt="computer AzevedoNTC">
 
 <p align="left"> 
   📌 My name is <strong> Augusto Azevedo </strong>, passionate about technology and especially programming.<br>
@@ -11,6 +11,8 @@
 </p>
 
 👨‍🎓 <a href="https://main.dpvnipep2hcjw.amplifyapp.com/"> My Portfolio</a>.
+
+⚙️ <a href="https://main.d2n3362xet2yxj.amplifyapp.com/"> QR Code Generator</a>.
 
 <p align="left">
   💌 Contact: ⤵️
