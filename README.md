@@ -12,7 +12,8 @@
 
 <a href="https://main.d3dm5m8griv6zb.amplifyapp.com/">👨‍🎓 My Portfolio</a>.
 
-<a href="https://main.d2n3362xet2yxj.amplifyapp.com/">☢️ QR Code Generator</a>.
+<a href="https://main.d3g0ywnyzouoql.amplifyapp.com/">🌧️ Weather App</a>.
+<a href="https://main.d2n3362xet2yxj.amplifyapp.com/">🔲 QR Code Generator</a>.
 
 <p align="left">
   💌 Contact: ⤵️
