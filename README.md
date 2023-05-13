@@ -3,11 +3,7 @@
 <p align="left"> 
   📌 My name is <strong> Augusto Azevedo </strong>, passionate about technology and especially programming.<br>
   Today I am a student of computer science and I intend to continue with the course and other sources of knowledge.
-</p>
-
-
-<p align="left">
-  🎯 I develop simple and self-taught codes for my own practices, always looking to improve. =)
+  I develop simple and self-taught codes for my own practices, always looking to improve. =)
 </p>
 
 <a href="https://main.d3dm5m8griv6zb.amplifyapp.com/">👨‍🎓 My Portfolio</a>
