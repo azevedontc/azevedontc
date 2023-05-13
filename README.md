@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="480px" max-width="480px" width="480px" align="right" alt="computer AzevedoNTC">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="490px" max-width="490px" width="490px" align="right" alt="computer AzevedoNTC">
 
 <p align="left"> 
   📌 My name is <strong> Augusto Azevedo </strong>, passionate about technology and especially programming.<br>
@@ -10,11 +10,13 @@
   🎯 I develop simple and self-taught codes for my own practices, always looking to improve. =)
 </p>
 
-<a href="https://main.d3dm5m8griv6zb.amplifyapp.com/">👨‍🎓 My Portfolio</a>.
+<a href="https://main.d3dm5m8griv6zb.amplifyapp.com/">👨‍🎓 My Portfolio</a>
 
-<a href="https://main.d3g0ywnyzouoql.amplifyapp.com/">🌧️ Weather App</a>.
+<a href="https://main.d1dmx7o5jjh2mc.amplifyapp.com/">⚡ Pokédex</a>
 
-<a href="https://main.d2n3362xet2yxj.amplifyapp.com/">🔲 QR Code Generator</a>.
+<a href="https://main.d3g0ywnyzouoql.amplifyapp.com/">🌧️ Weather App</a>
+
+<a href="https://main.d2n3362xet2yxj.amplifyapp.com/">🔲 QR Code Generator</a>
 
 <p align="left">
   💌 Contact: ⤵️
