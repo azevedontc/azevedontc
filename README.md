@@ -18,7 +18,7 @@
 
 <p align="left">  
   <a href="https://www.linkedin.com/in/augustoazevedontc/" alt="Linkedin">
-  <img align="left" width="38px" height="38px" src="https://img.icons8.com/fluency/48/null/linkedin.png"/></a>
+  <img align="left" width="42px" height="42px" src="https://img.icons8.com/fluency/48/null/linkedin.png"/></a>
 
   <a href="https://twitter.com/azevedontc" alt="Twitter">
   <img align="left" width="38px" height="38px" src="https://img.icons8.com/ios-filled/50/FFFFFF/twitterx--v1.png"/></a>
