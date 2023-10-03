@@ -8,28 +8,21 @@
 
 <a href="https://main.d3dm5m8griv6zb.amplifyapp.com/">👨‍🎓 My Portfolio</a>
 
-<a href="https://main.d1dmx7o5jjh2mc.amplifyapp.com/">⚡ Pokédex</a>
+<a href="https://main.d2n3362xet2yxj.amplifyapp.com/">🔍 QR Code Generator</a>
 
 <a href="https://main.d3g0ywnyzouoql.amplifyapp.com/">🌧️ Weather App</a>
-
-<a href="https://main.d2n3362xet2yxj.amplifyapp.com/">🔲 QR Code Generator</a>
 
 <p align="left">
   💌 Contact: ⤵️
 </p>
 
-<p align="left">
-  <a href="https://t.me/azevedontc" alt="Telegram">
-  <img align="left" width="35px" height="37px" src="https://img.icons8.com/fluency/48/null/telegram-app.png"/></a>
-  
+<p align="left">  
   <a href="https://www.linkedin.com/in/augustoazevedontc/" alt="Linkedin">
-  <img align="left" width="35px" height="37px" src="https://img.icons8.com/fluency/48/null/linkedin.png"/></a>
+  <img align="left" width="50px" height="50px"src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png"/></a>
 
   <a href="https://twitter.com/azevedontc" alt="Twitter">
-  <img align="left" width="35px" height="37px" src="https://img.icons8.com/fluency/48/null/twitter.png"/></a>
+  <img align="left" width="50px" height="50px" src="https://img.icons8.com/ios-filled/50/FFFFFF/twitterx--v1.png"/></a>
   
   <a href="https://www.figma.com/@azevedontc" alt="Figma">
-  <img align="left" width="35px" height="37px" src="https://img.icons8.com/fluency/48/null/figma.png"/></a>
+  <img align="left" width="50px" height="50px" src="https://img.icons8.com/ios-filled/50/FFFFFF/figma--v1.png"/></a>
 </p>
-
-</br>
