@@ -21,7 +21,7 @@
   <img align="left" width="38px" height="38px" src="https://img.icons8.com/fluency/48/null/linkedin.png"/></a>
 
   <a href="https://twitter.com/azevedontc" alt="Twitter">
-  <img align="left" width="38px" height="38px" src="https://img.icons8.com/ios-filled/50/twitterx--v1.png"/></a>
+  <img align="left" width="38px" height="38px" src="https://img.icons8.com/ios-filled/50/FFFFFF/twitterx--v1.png"/></a>
   
   <a href="https://www.figma.com/@azevedontc" alt="Figma">
   <img align="left" width="38px" height="38px" src="https://img.icons8.com/fluency/48/null/figma.png"/></a>
