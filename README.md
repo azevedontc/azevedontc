@@ -18,11 +18,11 @@
 
 <p align="left">  
   <a href="https://www.linkedin.com/in/augustoazevedontc/" alt="Linkedin">
-  <img align="left" width="50px" height="50px"src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png"/></a>
+  <img align="left" width="40px" height="40px"src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png"/></a>
 
   <a href="https://twitter.com/azevedontc" alt="Twitter">
-  <img align="left" width="50px" height="50px" src="https://img.icons8.com/ios-filled/50/FFFFFF/twitterx--v1.png"/></a>
+  <img align="left" width="40px" height="40px" src="https://img.icons8.com/ios-filled/50/FFFFFF/twitterx--v1.png"/></a>
   
   <a href="https://www.figma.com/@azevedontc" alt="Figma">
-  <img align="left" width="50px" height="50px" src="https://img.icons8.com/ios-filled/50/FFFFFF/figma--v1.png"/></a>
+  <img align="left" width="40px" height="40px" src="https://img.icons8.com/ios-filled/50/FFFFFF/figma--v1.png"/></a>
 </p>
