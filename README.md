@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="470px" max-width="470px" width="470px" align="right" alt="computer AzevedoNTC">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="450px" max-width="450px" width="450px" align="right" alt="computer AzevedoNTC">
 
 <p align="left"> 
   📌 My name is <strong> Augusto Azevedo </strong>, passionate about technology and especially programming.<br>
