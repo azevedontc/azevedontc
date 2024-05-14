@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="450px" max-width="450px" width="430px" align="right" alt="computer AzevedoNTC">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="450px" max-width="450px" width="380px" align="right" alt="computer AzevedoNTC">
 
 <p align="left"> 
   📌 My name is <strong> Augusto Azevedo </strong>, passionate about technology and especially programming.<br>
@@ -6,9 +6,7 @@
   I develop simple and self-taught codes for my own practices, always looking to improve. =)
 </p>
 
-<a href="https://azevedontc.github.io/qrcodeGenerator/">🔍 QR Code Generator</a>
-
-<a href="https://azevedontc.github.io/weatherApp/">🌧️ Weather App</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azevedontc&color=blueviolet" alt="azevedontc" /> </p>
 
 <p align="left">
   💌 Contact: ⤵️
