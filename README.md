@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="350px" align="right" alt="computer AzevedoNTC">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Segoe+UI&size=22&color=009d9c&center=true&width=157&height=45&lines=Hey+there++👋" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Segoe+UI&size=22&color=001d9c&center=true&width=157&height=45&lines=Hey+there++👋" />
 
 <p align="left"> 
   📌 My name is <strong> Augusto Azevedo </strong>, passionate about technology and especially programming.<br>
@@ -26,9 +26,9 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tassid&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=azevedontc&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tassid&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azevedontc&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
