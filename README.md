@@ -6,6 +6,8 @@
   📌 My name is <strong> Augusto Azevedo </strong>, passionate about technology and especially programming.<br>
   Today I am a student of computer science and I intend to continue with the course and other sources of knowledge.
   I develop simple and self-taught codes for my own practices, always looking to improve. =)
+  Today I am a student of computer science and I intend to continue with the course and other sources of knowledge.
+  I develop simple and self-taught codes for my own practices, always looking to improve. =)
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=azevedontc&color=blueviolet" alt="azevedontc" /> </p>
