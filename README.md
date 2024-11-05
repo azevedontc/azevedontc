@@ -6,22 +6,16 @@
   I develop simple and self-taught codes for my own practices, always looking to improve. =)
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azevedontc&color=blueviolet" alt="azevedontc" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=azevedontc&color=blueviolet" alt="azevedontc" /> </p>
 
-<p align="left">
-  💌 Contact: ⤵️
-</p>
-
-<p align="left">  
+<p align="center">
   <a href="https://www.linkedin.com/in/augustoazevedontc/" alt="Linkedin">
-  <img align="left" width="40px" height="40px" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
-
-  <a href="https://twitter.com/azevedontc" alt="Twitter">
-  <img align="left" width="40px" height="40px" src="https://img.icons8.com/fluency/48/twitterx--v1.png" alt="twitterx--v1"/></a>
-  
-  <a href="https://www.figma.com/@azevedontc" alt="Figma">
-  <img align="left" width="40px" height="40px" src="https://img.icons8.com/fluency/48/figma.png" alt="figma"/></a>
-
-  <a href="https://www.paypal.com/donate/?business=XBVZAHNPZ342Y&no_recurring=0&currency_code=BRL" alt="PayPal">
-  <img align="left" width="40px" height="40px" src="https://img.icons8.com/fluency/48/paypal.png" alt="paypal"/></a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:ubaporangacity@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://github.com/azevedontc">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
 </p>
