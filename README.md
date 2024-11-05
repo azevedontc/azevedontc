@@ -1,14 +1,12 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Segoe+UI&size=22&color=8319FA&center=true&width=157&height=45&lines=Hey+there++👋" />
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="310px" align="right" alt="computer AzevedoNTC">
 
-## About Me
+<img src="https://readme-typing-svg.herokuapp.com/?font=Segoe+UI&size=22&color=8319FA&center=true&width=157&height=45&lines=Hey+there++👋" />
 
 <p align="left"> 
   📌 My name is <strong> Augusto Azevedo </strong>, passionate about technology and especially programming.<br>
   Today I am a student of computer science and I intend to continue with the course and other sources of knowledge.
   I develop simple and self-taught codes for my own practices, always looking to improve. =)
 </p>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="310px" align="right" alt="computer AzevedoNTC">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=azevedontc&color=blueviolet" alt="azevedontc" /> </p>
 
@@ -25,7 +23,6 @@
 </p>
 
 <!-- GitHub Stats -->
-## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=azevedontc&show_icons=true&theme=jolly" alt="GitHub Stats"/>
