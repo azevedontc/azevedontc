@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="310px" align="right" alt="computer AzevedoNTC">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="330px" align="right" alt="computer AzevedoNTC">
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Segoe+UI&size=22&color=8319FA&center=true&width=157&height=45&lines=Hey+there++👋" />
 
