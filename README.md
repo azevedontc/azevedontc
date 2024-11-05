@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="320px" align="right" alt="computer AzevedoNTC">
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Segoe+UI&size=22&color=blueviolet&center=true&width=157&height=45&lines=Hey+there++👋" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Segoe+UI&size=22&color=8319FA&center=true&width=157&height=45&lines=Hey+there++👋" />
 
 ## About Me
 
@@ -9,6 +7,8 @@
   Today I am a student of computer science and I intend to continue with the course and other sources of knowledge.
   I develop simple and self-taught codes for my own practices, always looking to improve. =)
 </p>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="310px" align="right" alt="computer AzevedoNTC">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=azevedontc&color=blueviolet" alt="azevedontc" /> </p>
 
