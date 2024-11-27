@@ -25,10 +25,10 @@
 
 <!-- GitHub Stats -->
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=azevedontc&show_icons=true&theme=jolly" alt="GitHub Stats"/>
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azevedontc&layout=compact&theme=jolly" alt="Top Languages"/>
 </p>
