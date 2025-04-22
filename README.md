@@ -12,10 +12,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=azevedontc&color=blueviolet" alt="azevedontc" /> </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/augustoazevedontc/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/azevedoaugusto" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:ubaporangacity@gmail.com">
+  <a href="mailto:azevedo.fidelis.silva@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://github.com/azevedontc">
