@@ -12,19 +12,16 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=azevedontc&color=blueviolet" alt="azevedontc" /> </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/azevedoaugusto" alt="Linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/azevedoaugusto" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:azevedo.fidelis.silva@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  <a href="mailto:azevedo.fidelis.silva@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/azevedontc">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  <a href="https://github.com/azevedontc" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
-<!-- GitHub Stats -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azevedontc&show_icons=true&theme=jolly" alt="GitHub Stats"/>
+  <a href="https://discordapp.com/users/310861854949900289" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 </p>
