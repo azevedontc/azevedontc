@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Augusto Azevedo</h1>
+<h1 align="center">⚡ Augusto Azevedo ⚡</h1>
 <h3 align="center">Building ideas through code 🚀</h3>
 
 
