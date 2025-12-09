@@ -45,14 +45,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=azevedontc&theme=radical&no-frame=true&margin-w=10&margin-h=10" />
-</p>
-
----
-
 ### 📊 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=azevedontc&theme=radical&hide_border=true&area=true" />
