@@ -32,5 +32,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,js,nodejs,docker,mysql,git,github&perline=8" />
 </p>
-
----
