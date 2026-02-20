@@ -34,20 +34,3 @@
 </p>
 
 ---
-
-### 📈 GitHub Overview
-
-<!-- Stats: com cache e params atualizados -->
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=azevedontc&show_icons=true&rank_icon=github&theme=radical&hide_border=true&cache_seconds=14400" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azevedontc&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=14400" alt="Top Languages"/>
-</p>
-
----
-
-### 📊 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azevedontc&theme=radical&hide_border=true&area=true" />
-</p>
-
----
